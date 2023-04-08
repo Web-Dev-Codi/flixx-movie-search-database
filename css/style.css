@@ -143,8 +143,9 @@ ul {
 
 /* Footer */
 .main-footer {
+  height: 10vh;
   background: #020d18;
-  padding: 20px 0;
+  padding-top: 40px;
   margin-top: 20px;
 }
 
@@ -239,6 +240,7 @@ section h2 {
 }
 
 .details-bottom {
+  
 }
 
 .details-bottom li {
