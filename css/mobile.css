@@ -1,0 +1,14 @@
+
+@media only screen and (max-width: 750px) {
+  .details-top {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .details-top img {
+    width: 100%;
+    height: 100%;
+    margin-right: 0;
+    object-fit: cover;
+}
+}
